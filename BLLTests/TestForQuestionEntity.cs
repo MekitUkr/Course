@@ -50,7 +50,7 @@ namespace BLLTests
                 Assert.AreEqual(serializedQuestion.QuestionName, question.QuestionName, "Names are not equal");
             }
 
-            [ExpectedException(typeof(Exception), "Exception wasn`t threw")]
+            [ExpectedException(typeof(IndexOutOfRangeException), "Exception wasn`t threw")]
             [TestMethod]
             public void TestRemovingQuestionFromDB()
             {

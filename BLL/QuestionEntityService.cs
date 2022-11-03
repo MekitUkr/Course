@@ -35,7 +35,7 @@ namespace BLL
                 questions = Context.GetData(testName);
                 if (index < 0 || index > questions.Length - 1)
                 {
-                    throw new Exception("Incorrect question number");
+                    throw new IndexOutOfRangeException("Incorrect question number");
                 }
 
                 for (int i = index; i < questions.Length - 1; i++)
