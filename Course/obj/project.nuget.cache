@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3NsqsUUVU8CXFTR7m2IOsgR7kz1ifs7uYBk2bNXyiJkq587t/NA4YH5DKG8jxVdjF4DkSLKuKWy9vDtlpI5ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\Уник\\ООП\\Course\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

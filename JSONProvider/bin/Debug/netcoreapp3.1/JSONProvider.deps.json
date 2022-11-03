@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JSONProvider/1.0.0": {
+        "dependencies": {
+          "DataProvider": "1.0.0"
+        },
+        "runtime": {
+          "JSONProvider.dll": {}
+        }
+      },
+      "DataProvider/1.0.0": {
+        "runtime": {
+          "DataProvider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JSONProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PL.AnswerMenu">
+    <Position X="1.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAABAAAAQAICCAEAAAAAAAAA=</HashCode>
+      <FileName>AnswerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PL.MainMenu">
+    <Position X="5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EoAAAAQABCAIAAAAAAABAAAAAAAAAAAACIAAAAAAAig=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PL.QuestionMenu">
+    <Position X="9" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAACAABAACBAAAAAAEAAAAQAAAA=</HashCode>
+      <FileName>QuestionMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PL.TestMenu">
+    <Position X="9.75" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQEAACAAAAQJQAIIAIBAAAAAAAAAAEABAAAAAAA=</HashCode>
+      <FileName>TestMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PL.StartTest">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAAACgQAAgAABAIAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>TestMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

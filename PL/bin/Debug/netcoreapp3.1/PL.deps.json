@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PL/1.0.0": {
+        "dependencies": {
+          "BLL": "1.0.0",
+          "Entities": "1.0.0",
+          "TestLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PL.dll": {}
+        }
+      },
+      "BLL/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "BLL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "DataProvider": "1.0.0",
+          "Entities": "1.0.0",
+          "JSONProvider": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      },
+      "DataProvider/1.0.0": {
+        "runtime": {
+          "DataProvider.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
+        }
+      },
+      "JSONProvider/1.0.0": {
+        "dependencies": {
+          "DataProvider": "1.0.0"
+        },
+        "runtime": {
+          "JSONProvider.dll": {}
+        }
+      },
+      "TestLibrary/1.0.0": {
+        "runtime": {
+          "TestLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JSONProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

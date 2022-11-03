@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.deps.json
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\bin\Debug\netcoreapp3.1\DataProvider.pdb
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.AssemblyInfo.cs
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.dll
+C:\Users\1\Desktop\Уник\ООП\Course\DataProvider\obj\Debug\netcoreapp3.1\DataProvider.pdb

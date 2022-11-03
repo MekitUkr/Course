@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "TEST",
+    "NumberOfQuestions": 1,
+    "PercentageOfCorrectAnswers": 0,
+    "Questions": [
+      {
+        "NumberOfAnswers": 1,
+        "Answers": [
+          {
+            "MyAnswer": "My answer",
+            "IsRight": true
+          }
+        ],
+        "QuestionName": "firstQuestion"
+      }
+    ],
+    "TimeForOneQuestion": 10
+  }
+]

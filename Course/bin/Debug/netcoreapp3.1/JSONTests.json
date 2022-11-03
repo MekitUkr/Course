@@ -1,0 +1,138 @@
+[
+  {
+    "Name": "test",
+    "NumberOfQuestions": 3,
+    "PercentageOfCorrectAnswers": 66,
+    "Questions": [
+      {
+        "NumberOfAnswers": 2,
+        "Answers": [
+          {
+            "MyAnswer": "2",
+            "IsRight": true
+          },
+          {
+            "MyAnswer": "1",
+            "IsRight": false
+          }
+        ],
+        "QuestionName": "1\u002B1 equal to: "
+      },
+      {
+        "NumberOfAnswers": 2,
+        "Answers": [
+          {
+            "MyAnswer": "4",
+            "IsRight": true
+          },
+          {
+            "MyAnswer": "5",
+            "IsRight": false
+          }
+        ],
+        "QuestionName": "2\u002B2 equal to: "
+      },
+      {
+        "NumberOfAnswers": 2,
+        "Answers": [
+          {
+            "MyAnswer": "2021",
+            "IsRight": false
+          },
+          {
+            "MyAnswer": "2022",
+            "IsRight": true
+          },
+          {
+            "MyAnswer": "2020",
+            "IsRight": false
+          }
+        ],
+        "QuestionName": "What year is it now"
+      }
+    ],
+    "TimeForOneQuestion": 10
+  },
+  {
+    "Name": "second",
+    "NumberOfQuestions": 4,
+    "PercentageOfCorrectAnswers": 25,
+    "Questions": [
+      {
+        "NumberOfAnswers": 2,
+        "Answers": [
+          {
+            "MyAnswer": "answer1",
+            "IsRight": true
+          },
+          {
+            "MyAnswer": "answer2",
+            "IsRight": false
+          }
+        ],
+        "QuestionName": "Question 1"
+      },
+      {
+        "NumberOfAnswers": 2,
+        "Answers": [
+          {
+            "MyAnswer": "answer1",
+            "IsRight": true
+          },
+          {
+            "MyAnswer": "answer2",
+            "IsRight": false
+          }
+        ],
+        "QuestionName": "MyQuestion"
+      },
+      {
+        "NumberOfAnswers": 2,
+        "Answers": [
+          {
+            "MyAnswer": "yes",
+            "IsRight": false
+          },
+          {
+            "MyAnswer": "no",
+            "IsRight": true
+          }
+        ],
+        "QuestionName": "The latgest city py population is"
+      },
+      {
+        "NumberOfAnswers": 2,
+        "Answers": [
+          {
+            "MyAnswer": "yes",
+            "IsRight": false
+          },
+          {
+            "MyAnswer": "no",
+            "IsRight": true
+          }
+        ],
+        "QuestionName": "is 1 greater than two?"
+      }
+    ],
+    "TimeForOneQuestion": 10
+  },
+  {
+    "Name": "third",
+    "NumberOfQuestions": 2,
+    "PercentageOfCorrectAnswers": 0,
+    "Questions": [
+      {
+        "NumberOfAnswers": 0,
+        "Answers": [],
+        "QuestionName": "Mockup question"
+      },
+      {
+        "NumberOfAnswers": 0,
+        "Answers": [],
+        "QuestionName": "Mockup question"
+      }
+    ],
+    "TimeForOneQuestion": 10
+  }
+]
