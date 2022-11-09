@@ -116,23 +116,5 @@
       }
     ],
     "TimeForOneQuestion": 10
-  },
-  {
-    "Name": "third",
-    "NumberOfQuestions": 2,
-    "PercentageOfCorrectAnswers": 0,
-    "Questions": [
-      {
-        "NumberOfAnswers": 0,
-        "Answers": [],
-        "QuestionName": "Mockup question"
-      },
-      {
-        "NumberOfAnswers": 0,
-        "Answers": [],
-        "QuestionName": "Mockup question"
-      }
-    ],
-    "TimeForOneQuestion": 10
   }
 ]

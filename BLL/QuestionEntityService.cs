@@ -1,12 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using DAL;
 using Entities;
+using IEntityService;
 
 namespace BLL
 {
-    public class QuestionEntityService
+    public class QuestionEntityService: IQuestionService
     {
         IQuestionContext Context { get; set; }
 

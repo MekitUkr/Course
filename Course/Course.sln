@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLibrary", "..\TestLibra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PL", "..\PL\PL.csproj", "{39E8FB19-30B9-41F2-A587-7999381AFE5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLTests", "..\BLLTests\BLLTests.csproj", "{DD63D1DC-F33C-4609-9130-D820A1E79760}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLLTests", "..\BLLTests\BLLTests.csproj", "{DD63D1DC-F33C-4609-9130-D820A1E79760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEntityService", "..\IEntityService\IEntityService.csproj", "{FFA97FD2-C6A9-4CFC-BF8B-37DA1C2AD474}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DD63D1DC-F33C-4609-9130-D820A1E79760}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD63D1DC-F33C-4609-9130-D820A1E79760}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD63D1DC-F33C-4609-9130-D820A1E79760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA97FD2-C6A9-4CFC-BF8B-37DA1C2AD474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA97FD2-C6A9-4CFC-BF8B-37DA1C2AD474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA97FD2-C6A9-4CFC-BF8B-37DA1C2AD474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA97FD2-C6A9-4CFC-BF8B-37DA1C2AD474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IEntityService/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "IEntityService.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "DataProvider": "1.0.0",
+          "Entities": "1.0.0",
+          "JSONProvider": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        }
+      },
+      "DataProvider/1.0.0": {
+        "runtime": {
+          "DataProvider.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
+        }
+      },
+      "JSONProvider/1.0.0": {
+        "dependencies": {
+          "DataProvider": "1.0.0"
+        },
+        "runtime": {
+          "JSONProvider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IEntityService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JSONProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

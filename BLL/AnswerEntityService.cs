@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 using DAL;
 using Entities;
+using IEntityService;
 namespace BLL
 {
-    public class AnswerEntityService
+    public class AnswerEntityService:IAnswerService
     {
         IAnswerContext Context { get; set; }
         public void AddAnswer(string testName,int questionNumber, Answer answer)

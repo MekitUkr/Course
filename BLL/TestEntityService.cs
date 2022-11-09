@@ -1,9 +1,10 @@
 ﻿using System;
 using DAL;
 using Entities;
+using IEntityService;
 namespace BLL
 {
-    public class TestEntityService
+    public class TestEntityService: ITestService
     {
         ITestContext<Test> Context { get; set; }
         public void RemoveTest(string testName)

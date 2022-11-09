@@ -7,7 +7,8 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "DAL": "1.0.0",
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "IEntityService": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BLL.dll": {}
@@ -49,6 +50,20 @@
         },
         "runtime": {
           "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "IEntityService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IEntityService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IEntityService.dll": {}
         }
       },
       "JSONProvider/1.0.0": {
@@ -96,6 +111,11 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "IEntityService/1.0.0": {
+      "type": "project",
+      "path": "../IEntityService/IEntityService.csproj",
+      "msbuildProject": "../IEntityService/IEntityService.csproj"
     },
     "JSONProvider/1.0.0": {
       "type": "project",

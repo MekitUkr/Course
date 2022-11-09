@@ -17,3 +17,5 @@ C:\Users\1\Desktop\Уник\ООП\Course\BLL\obj\Debug\netcoreapp3.1\BLL.csproj
 C:\Users\1\Desktop\Уник\ООП\Course\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
 C:\Users\1\Desktop\Уник\ООП\Course\BLL\obj\Debug\netcoreapp3.1\BLL.dll
 C:\Users\1\Desktop\Уник\ООП\Course\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\1\Desktop\Уник\ООП\Course\BLL\bin\Debug\netcoreapp3.1\IEntityService.dll
+C:\Users\1\Desktop\Уник\ООП\Course\BLL\bin\Debug\netcoreapp3.1\IEntityService.pdb

@@ -9,7 +9,8 @@
       "BLL/1.0.0": {
         "dependencies": {
           "DAL": "1.0.0",
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "IEntityService": "1.0.0"
         },
         "runtime": {
           "BLL.dll": {}
@@ -33,6 +34,15 @@
       "Entities/1.0.0": {
         "runtime": {
           "Entities.dll": {}
+        }
+      },
+      "IEntityService/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "runtime": {
+          "IEntityService.dll": {}
         }
       },
       "JSONProvider/1.0.0": {
@@ -62,6 +72,11 @@
       "sha512": ""
     },
     "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IEntityService/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -21,3 +21,5 @@ C:\Users\1\Desktop\Уник\ООП\Course\PL\obj\Debug\netcoreapp3.1\PL.csproj.C
 C:\Users\1\Desktop\Уник\ООП\Course\PL\obj\Debug\netcoreapp3.1\PL.csproj.CopyComplete
 C:\Users\1\Desktop\Уник\ООП\Course\PL\obj\Debug\netcoreapp3.1\PL.dll
 C:\Users\1\Desktop\Уник\ООП\Course\PL\obj\Debug\netcoreapp3.1\PL.pdb
+C:\Users\1\Desktop\Уник\ООП\Course\PL\bin\Debug\netcoreapp3.1\IEntityService.dll
+C:\Users\1\Desktop\Уник\ООП\Course\PL\bin\Debug\netcoreapp3.1\IEntityService.pdb

@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "Name": "TEST",
+    "NumberOfQuestions": 0,
+    "PercentageOfCorrectAnswers": 0,
+    "Questions": [],
+    "TimeForOneQuestion": 10
+  }
+]

@@ -27,3 +27,5 @@ C:\Users\1\Desktop\Уник\ООП\Course\Course\bin\Debug\netcoreapp3.1\TestLib
 C:\Users\1\Desktop\Уник\ООП\Course\Course\bin\Debug\netcoreapp3.1\TestLibrary.pdb
 C:\Users\1\Desktop\Уник\ООП\Course\Course\bin\Debug\netcoreapp3.1\PL.dll
 C:\Users\1\Desktop\Уник\ООП\Course\Course\bin\Debug\netcoreapp3.1\PL.pdb
+C:\Users\1\Desktop\Уник\ООП\Course\Course\bin\Debug\netcoreapp3.1\IEntityService.dll
+C:\Users\1\Desktop\Уник\ООП\Course\Course\bin\Debug\netcoreapp3.1\IEntityService.pdb
